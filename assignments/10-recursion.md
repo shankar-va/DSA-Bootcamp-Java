@@ -1,4 +1,4 @@
-# Videos
+sd# Videos
 - [Complete Recursion Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
 
 # Problems
@@ -21,9 +21,8 @@
 - [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
 - [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
 - [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
-- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
-- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
-- Write a recursive function for given n and a to determine x:
+- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`dsa
+- [Power of Four](https://leefdetermine x:
 ```java
       n = a ^ x 
       a = 2, 3, 4
