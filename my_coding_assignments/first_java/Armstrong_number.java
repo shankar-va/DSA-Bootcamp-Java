@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// An armstrong number is a number where the sum of power of the digits is equal to the same number  
 public class Armstrong_number {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
